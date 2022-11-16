@@ -31,7 +31,7 @@ STEP1: Install postgresql and pgadmin in your system.
 STEP2: Within the active server go to the databases. Right click and go to create > Database...  
 STEP3: Name the database as per your choice(here, 'flems').  
 STEP4: Click on Save so that database is created.  
-STEP5: Right click on the created database and go to restore.Choose the file flems_dbs.sql and click on the Restore option.  
+STEP5: Right click on the created database and go to restore.Choose the file flems_final.sql and click on the Restore option.  
 STEP6: Database is loaded in your system and now you can query as per your convenience.  
 
 ## E-R Diagram
